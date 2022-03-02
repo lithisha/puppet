@@ -164,7 +164,7 @@ If you're unable to log in to the console as admin, you can change the password 
 
 Log in as root to the node running console services (usually your primary server) and reset the console admin password:
 
- 
+ puppet infrastructure console_password --password=Srimathy2574$
 
 
 
